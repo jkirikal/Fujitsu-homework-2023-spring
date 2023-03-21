@@ -1,2 +1,2 @@
-# Fujitsu homework assignment fall 2023
+# Fujitsu homework assignment spring 2023
 by Johan Kirikal
